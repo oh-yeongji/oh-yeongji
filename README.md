@@ -1,3 +1,9 @@
+
+
+![header](https://capsule-render.vercel.app/api?text=YeongJi's%20github&fontAlignY=70)
+
+
+
 <div align=center><h1><b>🛠 Tech Stack 🛠</b></h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
