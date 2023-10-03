@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next&logoColor=white">
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/reduxsaga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white">
+  </br>
   
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/StyledComponents/emotion-DB7093?style=for-the-badge&logo=StyledComponents/emotion&logoColor=white">
