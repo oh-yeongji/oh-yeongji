@@ -10,7 +10,7 @@
 #  🪆Re-rendering: Always Standing Up
 </br>
 
-> **"바닥을 찍더라도 금방 다시 Root로 돌아오는, 오뚝이 프론트엔드 엔지니어입니다."**
+> **"바닥을 찍더라도 금방 다시 Root로 돌아오는, 오뚝이 프론트엔드 개발자입니다."**
 </br>
 
 
@@ -53,7 +53,9 @@ const me: Developer = {
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 
 </div>
 <div align=center><h1><b> ✔ Cowork tools✔ </b></h1></div>
