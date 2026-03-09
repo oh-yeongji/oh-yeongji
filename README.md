@@ -18,21 +18,22 @@
 interface Developer {
   status: 'standing';
   resilient: boolean;
-  onCrash: () => 'bounce_back_to_root';
+  onCrash: (hit: unknown) => 'bounce_back_to_root';
 }
 
 const me: Developer = {
   status: 'standing',
   resilient: true,
-  onCrash: () => 'bounce_back_to_root'
+  onCrash: (bottom) => 'bounce_back_to_root'
 };
 
 ```
 
 ### 💡 Resilience & Growth
-- **Unstoppable Balance:** 에러라는 외부 충격에 흔들릴지언정, 결코 쓰러지지 않고 무게 중심을 잡아 끝내 버그를 해결해냅니다.
+- **Unstoppable Balance:** 에러라는 외부 충격에 바닥에 닿더라도, 결코 쓰러지지 않고 무게 중심을 잡아 끝내 버그를 해결해냅니다.
 - **Elastic Recovery:** 바닥에 닿는 순간을 실패가 아닌 '도약의 기점'으로 삼아, 이전보다 더 견고한 코드 구조를 설계하며 복귀합니다.
-- **User Stability:** 오뚝이가 사용자에게 즐거움과 안정감을 주듯, 섬세한 UI/UX 디테일을 통해 사용자가 어떤 경로에서도 길을 잃지 않는 안정적인 경험을 제공합니다.
+- **Stable Center:** 어떤 각도로 기울어져도 다시 제자리로 돌아오는 오뚝이처럼, 변화무쌍한 요구사항 속에서도 사용자가 신뢰할 수 있는 흔들림 없는 인터페이스를 제공합니다.
+
 </br>
 
 <div align=center><h1><b>🛠 Tech Stack 🛠</b></h1></div>
