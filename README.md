@@ -1,8 +1,22 @@
 
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&text=Hello!%20I'm%20Yeongji!&animation=scaleIn&fontColor=000000&fontSize=70" />
+    </div>
+    </br>
+  </br>
+  </br>
+    
+#  Re-rendering: Always Standing Up
 
-![header](https://capsule-render.vercel.app/api?text=YeongJi's%20github&fontAlignY=70)
+> **"바닥을 찍고 다시 Root로 돌아오는, 오뚜기🪆 프론트엔드 개발자입니다."**
 
 
+
+### 💡 Resilience & Growth
+- **Persistence:** 에러와 버그라는 '바닥'을 마주할 때, 좌절하기보다 해결을 위한 동력으로 삼습니다.
+- **Fast Recovery:** 실패를 빠르게 분석하고 다시 'Root'로 돌아와 더 나은 구조를 설계합니다.
+- **UX Focused:** 사용자가 겪을 불편함을 최소화하기 위해 섬세한 UI/UX 디테일을 고민합니다.
+</br>
 
 <div align=center><h1><b>🛠 Tech Stack 🛠</b></h1></div>
 <div align=center>
